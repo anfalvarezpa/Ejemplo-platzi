@@ -1,1 +1,1 @@
-Este es un ensallo de archivo de texto plano.
+Este es un ensallo de archivo de texto plano, donde se realizan algunas modificaciones al texto original.
