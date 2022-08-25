@@ -3,4 +3,7 @@ Este es un ensallo de archivo de texto plano, donde se realizan algunas modifica
 Inicialmente era un texto corto, pero ahora esta compuesto por diferentes parrafos para poner en práctica
 los diferentes códigos.
 
-Este es el 4 curso de platzi.
+1
+2
+2
+3
